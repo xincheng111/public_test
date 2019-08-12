@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="24" started-at="2019-08-10T11:04:12Z" finished-at="2019-08-10T11:04:12Z">
+  <suite name="Suite" duration-ms="41" started-at="2019-08-12T08:34:24Z" finished-at="2019-08-12T08:34:24Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="24" started-at="2019-08-10T11:04:12Z" finished-at="2019-08-10T11:04:12Z">
+    <test name="Test" duration-ms="41" started-at="2019-08-12T08:34:24Z" finished-at="2019-08-12T08:34:24Z">
       <class name="com.jenkins.mytest.Demo2">
-        <test-method status="PASS" signature="test001()[pri:0, instance:com.jenkins.mytest.Demo2@3f0ee7cb]" name="test001" duration-ms="4" started-at="2019-08-10T11:04:12Z" finished-at="2019-08-10T11:04:12Z">
+        <test-method status="PASS" signature="test001()[pri:0, instance:com.jenkins.mytest.Demo2@7dc36524]" name="test001" duration-ms="6" started-at="2019-08-12T08:34:24Z" finished-at="2019-08-12T08:34:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test001 -->
-        <test-method status="PASS" signature="test002()[pri:0, instance:com.jenkins.mytest.Demo2@3f0ee7cb]" name="test002" duration-ms="0" started-at="2019-08-10T11:04:12Z" finished-at="2019-08-10T11:04:12Z">
+        <test-method status="PASS" signature="test002()[pri:0, instance:com.jenkins.mytest.Demo2@7dc36524]" name="test002" duration-ms="0" started-at="2019-08-12T08:34:24Z" finished-at="2019-08-12T08:34:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test002 -->
-        <test-method status="PASS" signature="test003()[pri:0, instance:com.jenkins.mytest.Demo2@3f0ee7cb]" name="test003" duration-ms="0" started-at="2019-08-10T11:04:12Z" finished-at="2019-08-10T11:04:12Z">
+        <test-method status="PASS" signature="test003()[pri:0, instance:com.jenkins.mytest.Demo2@7dc36524]" name="test003" duration-ms="0" started-at="2019-08-12T08:34:24Z" finished-at="2019-08-12T08:34:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test003 -->
